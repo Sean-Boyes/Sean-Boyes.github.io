@@ -1240,7 +1240,7 @@ textarea.form-input::-webkit-resizer { display: none; }
    * software
    */
 
-  .software-item { min-width: calc(20% - 10px); }
+  .software-item { min-width: calc(15% - 10px); }
 
 
 
@@ -1817,7 +1817,6 @@ textarea.form-input::-webkit-resizer { display: none; }
     width: 75%;
     margin: 0;
   }
-
 
 
   /**
